@@ -1,4 +1,4 @@
-# Credit goes to https://github.com/zhixuhao/unet/blob/master/model.py. I took this script and made minor modifications to accomedate for my needs. Credit goes to that github script,
+# I took this script and made minor modifications to accomedate for my needs
 # user name is zhixuhao, https://github.com/zhixuhao
 
 import numpy as np 
